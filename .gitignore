@@ -1,0 +1,5 @@
+src/main.o
+src/Object_module.o
+src/Solar.o
+log.txt
+.vscode
